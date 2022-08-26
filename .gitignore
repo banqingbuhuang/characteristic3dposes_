@@ -1,0 +1,8 @@
+.DS_Store
+._.*
+*.egg-info/
+/baselines
+/data_generation/grab/input/
+/data_generation/grab/output/
+/data_generation/h36m/input/
+/resources/
