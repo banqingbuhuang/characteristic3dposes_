@@ -164,9 +164,9 @@ def create_video(path, fps=30,name='movie'):
 
 # mapping the contact ids to each body part in smplx        
 contact_ids={'Body': 1,
-             'L_Thigh': 2,
-             'R_Thigh': 3,
-             'Spine': 4,
+             'L_Thigh': 2, #左大腿
+             'R_Thigh': 3, #右大腿
+             'Spine': 4, #脊柱
              'L_Calf': 5,
              'R_Calf': 6,
              'Spine1': 7,
